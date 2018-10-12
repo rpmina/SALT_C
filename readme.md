@@ -4,7 +4,7 @@ SALT-C (Sandardization Algorithm for Laboratory Test -  Categorical data) algori
 
 
 
-##Sample data
+## Sample data
 
 We created and loaded sample data of categorical laboratory test results. you can find this at data folder. 
 
