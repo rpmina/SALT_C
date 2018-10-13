@@ -1,0 +1,33 @@
+﻿concept_id,concept_name,SALT_C_group,SALT_C_name
+4159773,Red color,Urine color,Red
+4153955,Black color,Urine color,Black
+4153957,Brown color,Urine color,Brown
+4153953,Yellow color,Urine color,Yellow
+4153954,Green color,Urine color,Green
+4159774,Orange color,Urine color,Orange
+4159854,White color,Urine color,White
+4219220,Cloudy,Urine color,Cloudy
+4139810,Clear,Urine color,Clear
+763957,Straw color,Urine color,Straw
+763964,Amber color,Urine color,Amber
+4236881,Blue color,Urine color,Blue
+4055817,Turbid urine,Urine color,Turbid
+9192,Trace,Urine dipstick qualifier,Trace
+4123508,+,Urine dipstick qualifier,+
+4126673,++,Urine dipstick qualifier,++
+4125547,+++,Urine dipstick qualifier,+++
+4126674,++++,Urine dipstick qualifier,++++
+9189,Negative,Urine dipstick qualifier,neg 
+9191,Positive,Presence finding qualifier,
+9189,Negative,Presence finding qualifier,
+4127785,Weakly positive,Presence finding qualifier,
+4013995,RhD positive,Blood type,rh+
+4013540,RhD negative,Blood type,rh-
+4230942,Weak D phenotype,Blood type,weakd
+4008253,Blood group A,Blood type,a
+4009006,Blood group B,Blood type,b
+4237761,Blood group O,Blood type,o
+4013993,Blood group AB,Blood type,ab
+4305306,Non-Reactive,Pathogeneses qaulifier,reac
+4024508,Weakly-reactive,Pathogeneses qaulifier,non-reac
+4011063,Reactive,Pathogeneses qaulifier,weak-reac
