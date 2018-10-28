@@ -3,7 +3,7 @@
 SALT-C (Sandardization Algorithm for Laboratory Test -  Categorical data) algorithm process categorical laboratory data into standardized format. The overall procedure is described below. The following subsections will describe each method in detail.
 
 ## Lab tests and value sets 
-Measurement_concept_id, Measurement_source_value, Value_as_concept_id, Value_source_value are available at [labdata_valuesets_url].
+Measurement_concept_id, Measurement_source_value, Value_as_concept_id, Value_source_value are available at [labdata_valuesets].
 
 
 ## Sample data
@@ -28,4 +28,4 @@ In SALT-C algorithm, we choose vectorization scheme as character level embedding
 
 After SALT-C algorithm classify laboratory test into 6 groups, it vectorize and calculate the similarity score between word and value of value sets. As a method of measuring the similarity, we used and compared cosine similarity, Euclidean distance, levenshtein distance, and hybrid method which is a combination of cosine similarity and Euclidean distance.
 
-[labdata_valuesets_url]:https://github.com/rpmina/SALT_C/blob/master/labdata_valuesets/labtest_valueset.xlsx
+[labdata_valuesets]:https://github.com/rpmina/SALT_C/blob/master/labdata_valuesets/labtest_valueset.xlsx
