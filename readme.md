@@ -2,6 +2,8 @@
 
 SALT-C (Sandardization Algorithm for Laboratory Test -  Categorical data) algorithm process categorical laboratory data into standardized format. The overall procedure is described below. The following subsections will describe each method in detail.
 
+## Lab tests and value sets 
+Measurement_concept_id, Measurement_source_value, Value_as_concept_id, Value_source_value is available at [labdata_valuesets][https://github.com/rpmina/SALT_C/blob/master/labdata_valuesets/labtest_valueset.xlsx].
 
 
 ## Sample data
